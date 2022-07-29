@@ -1,2 +1,2 @@
 # hangman
-Simple text-based python hangman game.
+Simple terminal-based python hangman game.
